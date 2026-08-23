@@ -1,0 +1,28 @@
+---
+author: OkeyReview Team
+pubDatetime: 2026-08-01T00:00:00Z
+title: About Us & Testing Methodology
+slug: about-us
+featured: false
+draft: false
+tags:
+  - about
+description: "Discover how OkeyReview Goods researches, tests, and rates consumer products."
+---
+
+Welcome to **OkeyReview Goods**, a dedicated review platform helping consumers find the best products across beauty, personal care, automotive accessories, and home living gear.
+
+## Our Mission
+
+With millions of consumer products available online, making the right buying decision can be overwhelming. We simplify that process by delivering transparent, well-researched, and balanced buying guides.
+
+## Our Product Evaluation Process
+
+* **Ingredient & Material Analysis:** We review formulation labels, safety certifications, and build quality.
+* **Real-world Utility:** We assess how products perform in everyday conditions.
+* **Balanced Verdicts:** We highlight both pros and cons so you know exactly what to expect before buying.
+
+## Leadership & Contact
+
+* **Founder & Lead Reviewer:** Tan Le (trongtanleforwork@gmail.com)
+* **General Inquiries & Product Submissions:** info.okeyreview@gmail.com
