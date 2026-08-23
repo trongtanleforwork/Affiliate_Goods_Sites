@@ -1,36 +1,23 @@
 ---
-import { getEntry, render } from "astro:content";
-import Layout from "@/layouts/Layout.astro";
-import Header from "@/components/Header.astro";
-import Breadcrumb from "@/components/Breadcrumb.astro";
-import Main from "@/components/Main.astro";
-import Footer from "@/components/Footer.astro";
-import config from "@/config";
-
-const about = await getEntry("pages", "about");
-
-if (!about) {
-  throw new Error(
-    "Missing content entry: `about.md` or `about.mdx` in `src/content/pages/`"
-  );
-}
-
-const { Content } = await render(about);
+title: About Us & Testing Methodology
+description: "Discover how OkeyReview Goods researches, tests, and rates consumer products."
 ---
 
-<Layout
-  title={`${about.data.title} | ${config.site.title}`}
-  description={about.data.description}
-  ogImage={about.data.ogImage}
-  canonicalURL={about.data.canonicalURL}
->
-  <Header />
+Welcome to **OkeyReview Goods**, a dedicated review platform helping consumers find the best products across beauty, personal care, automotive accessories, and home living gear.
 
-  <Breadcrumb />
+## Our Mission
 
-  <Main pageTitle={about.data.title} class="app-prose">
-    <Content />
-  </Main>
+With millions of consumer products available online, making the right buying decision can be overwhelming. We simplify that process by delivering transparent, well-researched, and balanced buying guides.
 
-  <Footer />
-</Layout>
+## Our Product Evaluation Process
+
+* **Ingredient & Material Analysis:** We review formulation labels, safety certifications, and build quality.
+* **Real-world Utility:** We assess how products perform in everyday conditions.
+* **Balanced Verdicts:** We highlight both pros and cons so you know exactly what to expect before buying.
+
+## Leadership & Contact Information
+
+* **Founder & Lead Reviewer:** Tan Le (trongtanleforwork@gmail.com)
+* **Product Submission & Inquiries:** info.okeyreview@gmail.com
+* **Hotline / Support:** (+84) 0948.592.349
+* **Official Facebook Page:** [facebook.com/okeyreview](https://www.facebook.com/okeyreview/)
