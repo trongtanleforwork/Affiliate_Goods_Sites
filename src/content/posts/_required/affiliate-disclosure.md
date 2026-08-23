@@ -1,27 +1,29 @@
 ---
-author: OkeyReview Team
+author: OkeyReview Tech Team
 pubDatetime: 2026-08-23T10:00:00Z
-title: Affiliate Disclosure
-slug: affiliate-disclosure
+title: About Us & Editorial Standards
+slug: about-us
 featured: false
 draft: false
 tags:
-  - policies
-description: "Our commitment to transparency and FTC compliance regarding affiliate links."
+  - about
+description: "Learn more about OkeyReview Tech, our mission, and our testing methodology."
 ---
 
-At OkeyReview, we believe in transparency and honesty. We want to be fully upfront about how this website generates revenue.
+Welcome to **OkeyReview Tech**, your trusted resource for honest reviews, benchmarks, and actionable comparisons of AI tools, SaaS products, and productivity software.
 
-## FTC Affiliate Disclosure
+## Our Mission
 
-In compliance with the FTC guidelines, please assume that any/all of the links on this website are affiliate links. This means that if you click on the link and purchase a product or service, OkeyReview may receive a small commission at **no additional cost to you**.
+The software landscape is evolving rapidly. Our mission is to cut through the marketing noise and provide software buyers, creators, and businesses with authentic, data-driven evaluations.
 
-## How We Review Products
+## How We Test and Review Software
 
-Our primary goal is to provide you with honest, in-depth reviews and comparisons. 
-- The compensation we receive from affiliate partners **does not** influence our content, topics, or recommendations.
-- We only recommend tools, software, and physical goods that we have thoroughly investigated and genuinely believe will deliver value to our readers.
+Every review published on OkeyReview Tech follows strict editorial principles:
+* **Hands-on Exploration:** We create real accounts and test core features under practical workflows.
+* **Performance & Accuracy:** We benchmark speed, output quality, and reliability across different use cases.
+* **Value Assessment:** We analyze pricing plans to determine if a tool delivers genuine return on investment.
 
-Your support in purchasing through these links helps us keep this website running và allows us to continue providing free, high-quality content. 
+## Contact Us
 
-If you have any questions regarding this disclosure, please feel free to reach out to us at contact@okeyreview.com.
+Have questions, suggestions, or want us to review a specific tool?
+* **Email:** contact@okeyreview.com
