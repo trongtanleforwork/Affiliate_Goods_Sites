@@ -1,0 +1,26 @@
+---
+import { getEntry, render } from "astro:content";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import Main from "@/layouts/Main.astro";
+import { SITE } from "@/config";
+
+const aboutPost = await getEntry("pages", "about");
+
+if (!aboutPost) {
+  return Astro.redirect("/404");
+}
+
+const { Content } = await render(aboutPost);
+---
+
+<Layout title={`About | ${SITE.title}`}>
+  <Header activeNav="about" />
+  <Main pageTitle={aboutPost.data.title} pageDesc={aboutPost.data.description}>
+    <div class="prose max-w-3xl prose-img:border-0">
+      <Content />
+    </div>
+  </Main>
+  <Footer />
+</Layout>
