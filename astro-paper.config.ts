@@ -6,7 +6,7 @@ export default defineAstroPaperConfig({
     title: "OkeyReview Goods",
     description: "Honest reviews, buying guides, and hands-on testing for beauty, home living, auto accessories, and everyday gear.",
     author: "OkeyReview Team",
-    profile: "https://goods.okeyreview.com/posts/about-us/",
+    profile: "https://goods.okeyreview.com/about/",
     ogImage: "default-og.jpg",
     lang: "en",
     timezone: "UTC",
@@ -29,11 +29,11 @@ export default defineAstroPaperConfig({
   },
   socials: [
     { name: "mail", url: "mailto:info.okeyreview@gmail.com" },
-    { name: "pinterest", url: "https://pinterest.com/" },
+    { name: "facebook", url: "https://www.facebook.com/okeyreview/" },
   ],
   shareLinks: [
-    { name: "pinterest", url: "https://pinterest.com/pin/create/button/?url=" },
     { name: "facebook", url: "https://www.facebook.com/sharer.php?u=" },
+    { name: "pinterest", url: "https://pinterest.com/pin/create/button/?url=" },
     { name: "x", url: "https://x.com/intent/post?url=" },
     { name: "mail", url: "mailto:?subject=See%20this%20post&body=" },
   ],
