@@ -1,12 +1,5 @@
 ---
-author: OkeyReview Team
-pubDatetime: 2026-08-01T00:00:00Z
 title: About Us & Testing Methodology
-slug: about-us
-featured: false
-draft: false
-tags:
-  - about
 description: "Discover how OkeyReview Goods researches, tests, and rates consumer products."
 ---
 
