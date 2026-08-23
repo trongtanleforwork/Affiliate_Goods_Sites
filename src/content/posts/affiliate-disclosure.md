@@ -1,29 +1,24 @@
 ---
-author: OkeyReview Tech Team
-pubDatetime: 2026-08-23T10:00:00Z
-title: About Us & Editorial Standards
-slug: about-us
+author: OkeyReview Team
+pubDatetime: 2026-08-01T00:00:00Z
+title: Affiliate Disclosure
 featured: false
 draft: false
 tags:
-  - about
-description: "Learn more about OkeyReview Tech, our mission, and our testing methodology."
+  - policies
+description: "Our commitment to transparency and FTC compliance regarding affiliate links."
 ---
 
-Welcome to **OkeyReview Tech**, your trusted resource for honest reviews, benchmarks, and actionable comparisons of AI tools, SaaS products, and productivity software.
+At OkeyReview, we believe in transparency and honesty. We want to be fully upfront about how this website generates revenue.
 
-## Our Mission
+## FTC Affiliate Disclosure
 
-The software landscape is evolving rapidly. Our mission is to cut through the marketing noise and provide software buyers, creators, and businesses with authentic, data-driven evaluations.
+In compliance with FTC guidelines, please assume that some links on this website are affiliate links. This means that if you click on a link and make a purchase, OkeyReview may receive a small commission at **no additional cost to you**.
 
-## How We Test and Review Software
+## How We Review Products
 
-Every review published on OkeyReview Tech follows strict editorial principles:
-* **Hands-on Exploration:** We create real accounts and test core features under practical workflows.
-* **Performance & Accuracy:** We benchmark speed, output quality, and reliability across different use cases.
-* **Value Assessment:** We analyze pricing plans to determine if a tool delivers genuine return on investment.
+Our primary goal is to provide honest, in-depth reviews and comparisons. 
+- The compensation we receive from affiliate partners **does not** influence our content, topics, or recommendations.
+- We only recommend tools, software, and products that we have thoroughly investigated and believe will deliver genuine value.
 
-## Contact Us
-
-Have questions, suggestions, or want us to review a specific tool?
-* **Email:** contact@okeyreview.com
+If you have any questions regarding this disclosure, please reach out to us at contact@okeyreview.com.
